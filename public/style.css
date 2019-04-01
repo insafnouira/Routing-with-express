@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 34px;
+   
+  }
+  
+  
+  li a {
+    display: block;
+    color: rgb(139, 136, 136);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  
+  .active {
+    background-color: rgb(21, 209, 223) !important;
+    border-radius: 15px;
+  }
+  .text{
+    text-align:center;
+    color: rgb(12, 170, 182);
+    margin-top:30px;
+
+  }
+  .text-close{
+    text-align:center;
+    color: rgb(211, 65, 20);
+    margin-top:30px;
+  }
